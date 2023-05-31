@@ -4,7 +4,7 @@
 \usepackage{subcaption}
 \usepackage{float}
 
-\title{What were the initial conditions of the early universe that promoted the growth of structure we see today?}
+\title{Exploring the initial conditions of the early universe that promoted the growth of structure we see today using telescope and simulated data of the CMB.}
 \author{Dhanush Ekollu}
 \date{April 2023}
 
@@ -182,7 +182,7 @@ To start off, I read the public data from the Atacama Cosmology Telescope provid
     \label{fig:reading}
 \end{figure}
 
-Since the ACT Map is a long stripe, I cut out a patch of it and computed the power spectrum on that first. I took a cosine window on the patch and then plotted the apodized map. I then used the same filtering techniques on this map as with the simulated noise on the CAMB map. Finally, I took the power spectrum on the apodized map and compared it to the theoretical power spectrum.
+Since the ACT Map is a long stripe, I cut out a patch of it (in Figure \ref{fig:patch}) and computed the power spectrum on that first. I took a cosine window on the patch and then plotted the filtered and apodized map (Figure \ref{fig:filter_apodize_patch}), using the same filtering techniques on this map as with the simulated noise on the CAMB map. Finally, I took the power spectrum on the apodized map and compared it to the theoretical power spectrum, shown in Figure \ref{fig:compute_theory}.
 
 \begin{figure}[H]
      \centering
@@ -190,14 +190,14 @@ Since the ACT Map is a long stripe, I cut out a patch of it and computed the pow
         \centering
         \includegraphics[width=0.7\textwidth]{images/ACT Map Patch.png}
         \caption{ACT sky map for a small patch of the reading. There is a lot of power from large scales from the atmosphere, so the power spectrum generated from the data can be expected to be biased to higher scales.}
-        \label{fig:my_label}
+        \label{fig:patch}
      \end{subfigure}
      \hfill
      \begin{subfigure}[t]{0.49\textwidth}
         \centering
         \includegraphics[width=0.7\textwidth]{images/Filtered ACT Map.png}
         \caption{ACT Map Patch filtered with same techniques as simulated CAMB map.}
-        \label{fig:my_label}
+        \label{fig:filter_apodize_patch}
      \end{subfigure}
         \caption{ACT Map Patches, Unfiltered and Filtered}
         \label{fig:my_label}
@@ -207,23 +207,23 @@ Since the ACT Map is a long stripe, I cut out a patch of it and computed the pow
     \centering
     \includegraphics[width=0.8\textwidth]{images/ACT PS.png}
     \caption{Power Spectrum Generated from Data vs Theoretical Power Spectrum}
-    \label{fig:my_label}
+    \label{fig:compute_theory}
 \end{figure}
 
-I also tested the frequency dependence of maps and foregrounds by looking at ACT Maps generated from the same patch of the sky but in a different frequency band (at 220 GHz instead of the previous 148 GHz) and calculating a power spectrum from that data using the same method.
+I also tested the frequency dependence of maps and foregrounds by looking at ACT Maps generated from the same patch of the sky but in a different frequency band at 220 GHz instead of the previous 148 GHz (Figure \ref{fig:220}). I calculated the power spectrum from that data using the same method as previously (Figure \ref{fig:220_spectrum}).
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{images/diff fb act.png}
     \caption{ACT Map - 220 GHz}
-    \label{fig:my_label}
+    \label{fig:220}
 \end{figure}
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{images/PS 220.png}
     \caption{Power spectrum generated at 220 GHz vs the power spectrum generated and 148 GHz. The 220 GHz PS has a noise bias that is higher at all scales.}
-    \label{fig:my_label}
+    \label{fig:220_spectrum}
 \end{figure}
 
 To begin handling polarizations, the code is generalized to create T, E, and B maps with the same procedure used to create T maps. These maps are transformed into Q and U maps and all calculations are executed in the flat sky approximation.

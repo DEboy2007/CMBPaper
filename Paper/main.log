@@ -1,0 +1,291 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.26)  30 MAY 2023 20:57
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/dhanu/Desktop/My Stuff/Coding/PROJECTS/CMBPaper/Paper/main.tex"
+(c:/Users/dhanu/Desktop/My Stuff/Coding/PROJECTS/CMBPaper/Paper/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen143
+\captionmargin=\dimen144
+\caption@leftmargin=\dimen145
+\caption@rightmargin=\dimen146
+\caption@width=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count195
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count196
+) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+) (./main.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen151
+\scratchbox=\box54
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen152
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks20
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+ [1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+<images/fs.png, id=20, 402.50375pt x 281.05pt>
+File: images/fs.png Graphic file (type png)
+<use images/fs.png>
+Package pdftex.def Info: images/fs.png  used on input line 59.
+(pdftex.def)             Requested size: 234.00238pt x 163.39078pt.
+<images/fa.png, id=22, 626.34pt x 577.15625pt>
+File: images/fa.png Graphic file (type png)
+<use images/fa.png>
+Package pdftex.def Info: images/fa.png  used on input line 66.
+(pdftex.def)             Requested size: 234.00238pt x 215.62283pt.
+ [5 <./images/fs.png>] [6 <./images/fa.png>]
+<images/point source map.png, id=31, 626.34pt x 577.15625pt>
+File: images/point source map.png Graphic file (type png)
+<use images/point source map.png>
+Package pdftex.def Info: images/point source map.png  used on input line 81.
+(pdftex.def)             Requested size: 117.00119pt x 107.81142pt.
+<images/SZ map.png, id=32, 626.34pt x 577.15625pt>
+File: images/SZ map.png Graphic file (type png)
+<use images/SZ map.png>
+Package pdftex.def Info: images/SZ map.png  used on input line 88.
+(pdftex.def)             Requested size: 117.00119pt x 107.81142pt.
+<images/Instrument noise.png, id=33, 626.34pt x 577.15625pt>
+File: images/Instrument noise.png Graphic file (type png)
+<use images/Instrument noise.png>
+Package pdftex.def Info: images/Instrument noise.png  used on input line 95.
+(pdftex.def)             Requested size: 117.00119pt x 107.81142pt.
+<images/complete simulated CMB Map.png, id=34, 626.34pt x 577.15625pt>
+File: images/complete simulated CMB Map.png Graphic file (type png)
+<use images/complete simulated CMB Map.png>
+Package pdftex.def Info: images/complete simulated CMB Map.png  used on input line 105.
+(pdftex.def)             Requested size: 390.0pt x 359.38315pt.
+ [7 <./images/point source map.png> <./images/SZ map.png> <./images/Instrument noise.png>] [8 <./images/complete simulated CMB Map.png>]
+<images/cosine.png, id=48, 626.34pt x 578.16pt>
+File: images/cosine.png Graphic file (type png)
+<use images/cosine.png>
+Package pdftex.def Info: images/cosine.png  used on input line 114.
+(pdftex.def)             Requested size: 234.00238pt x 215.99783pt.
+<images/sine.png, id=49, 626.34pt x 578.16pt>
+File: images/sine.png Graphic file (type png)
+<use images/sine.png>
+Package pdftex.def Info: images/sine.png  used on input line 125.
+(pdftex.def)             Requested size: 191.10214pt x 176.40471pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 126.
+<images/sine squared.png, id=50, 626.34pt x 578.16pt>
+File: images/sine squared.png Graphic file (type png)
+<use images/sine squared.png>
+Package pdftex.def Info: images/sine squared.png  used on input line 132.
+(pdftex.def)             Requested size: 191.10214pt x 176.40471pt.
+ [9 <./images/cosine.png>]
+<images/Naive Power Spectrum.png, id=55, 395.4775pt x 281.05pt>
+File: images/Naive Power Spectrum.png Graphic file (type png)
+<use images/Naive Power Spectrum.png>
+Package pdftex.def Info: images/Naive Power Spectrum.png  used on input line 144.
+(pdftex.def)             Requested size: 234.00238pt x 166.29836pt.
+ [10 <./images/sine.png> <./images/sine squared.png>] [11 <./images/Naive Power Spectrum.png>]
+<images/naive spectrums.png, id=69, 401.5pt x 281.05pt>
+File: images/naive spectrums.png Graphic file (type png)
+<use images/naive spectrums.png>
+Package pdftex.def Info: images/naive spectrums.png  used on input line 159.
+(pdftex.def)             Requested size: 234.00238pt x 163.80676pt.
+
+Overfull \hbox (3.3598pt too wide) in paragraph at lines 164--165
+[]\OT1/cmr/m/n/12 The noise bias is then cal-i-brated by run-ning noise-only sim-u-la-tions through
+ []
+
+<images/cmb error bars.png, id=70, 464.4853pt x 455.45157pt>
+File: images/cmb error bars.png Graphic file (type png)
+<use images/cmb error bars.png>
+Package pdftex.def Info: images/cmb error bars.png  used on input line 168.
+(pdftex.def)             Requested size: 312.00119pt x 305.94322pt.
+[12 <./images/naive spectrums.png>]
+<images/ACT Map.png, id=75, 638.385pt x 100.375pt>
+File: images/ACT Map.png Graphic file (type png)
+<use images/ACT Map.png>
+Package pdftex.def Info: images/ACT Map.png  used on input line 180.
+(pdftex.def)             Requested size: 312.00119pt x 49.05704pt.
+ [13 <./images/cmb error bars.png> <./images/ACT Map.png>]
+<images/ACT Map Patch.png, id=82, 638.385pt x 577.15625pt>
+File: images/ACT Map Patch.png Graphic file (type png)
+<use images/ACT Map Patch.png>
+Package pdftex.def Info: images/ACT Map Patch.png  used on input line 191.
+(pdftex.def)             Requested size: 133.7709pt x 120.94218pt.
+<images/Filtered ACT Map.png, id=83, 638.385pt x 577.15625pt>
+File: images/Filtered ACT Map.png Graphic file (type png)
+<use images/Filtered ACT Map.png>
+Package pdftex.def Info: images/Filtered ACT Map.png  used on input line 198.
+(pdftex.def)             Requested size: 133.7709pt x 120.94218pt.
+<images/ACT PS.png, id=84, 401.5pt x 269.005pt>
+File: images/ACT PS.png Graphic file (type png)
+<use images/ACT PS.png>
+Package pdftex.def Info: images/ACT PS.png  used on input line 208.
+(pdftex.def)             Requested size: 312.00119pt x 209.05547pt.
+ [14 <./images/ACT Map Patch.png> <./images/Filtered ACT Map.png>]
+<images/diff fb act.png, id=90, 638.385pt x 101.37875pt>
+File: images/diff fb act.png Graphic file (type png)
+<use images/diff fb act.png>
+Package pdftex.def Info: images/diff fb act.png  used on input line 217.
+(pdftex.def)             Requested size: 312.00119pt x 49.54762pt.
+<images/PS 220.png, id=91, 401.5pt x 269.005pt>
+File: images/PS 220.png Graphic file (type png)
+<use images/PS 220.png>
+Package pdftex.def Info: images/PS 220.png  used on input line 224.
+(pdftex.def)             Requested size: 312.00119pt x 209.05547pt.
+ [15 <./images/ACT PS.png> <./images/diff fb act.png>]
+<images/power spectrum.png, id=97, 402.50375pt x 281.05pt>
+File: images/power spectrum.png Graphic file (type png)
+<use images/power spectrum.png>
+Package pdftex.def Info: images/power spectrum.png  used on input line 238.
+(pdftex.def)             Requested size: 312.00119pt x 217.85437pt.
+ [16 <./images/PS 220.png>]
+<images/flat temperature anisotropy map.png, id=102, 626.34pt x 577.15625pt>
+File: images/flat temperature anisotropy map.png Graphic file (type png)
+<use images/flat temperature anisotropy map.png>
+Package pdftex.def Info: images/flat temperature anisotropy map.png  used on input line 249.
+(pdftex.def)             Requested size: 191.10214pt x 176.09843pt.
+<images/curved temperature anisotropy map.png, id=103, 626.34pt x 577.15625pt>
+File: images/curved temperature anisotropy map.png Graphic file (type png)
+<use images/curved temperature anisotropy map.png>
+Package pdftex.def Info: images/curved temperature anisotropy map.png  used on input line 256.
+(pdftex.def)             Requested size: 191.10214pt x 176.09843pt.
+ [17 <./images/power spectrum.png> <./images/flat temperature anisotropy map.png> <./images/curved temperature anisotropy map.png>] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3052 strings out of 476038
+ 56807 string characters out of 5794173
+ 1859779 words of memory out of 5000000
+ 23494 multiletter control sequences out of 15000+600000
+ 518064 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,8n,63p,1474b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (17 pages, 2853330 bytes).
+PDF statistics:
+ 157 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
