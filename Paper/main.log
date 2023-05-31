@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.26)  30 MAY 2023 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.26)  30 MAY 2023 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -139,153 +139,158 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
+(Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 21.
  [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<images/fs.png, id=20, 402.50375pt x 281.05pt>
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.2667pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/12 Finally, the Mag-netic Monopole Prob-lem ques-tions why no mag-netic monopoles
+ []
+
+[2] [3] [4] [5]
+<images/fs.png, id=23, 402.50375pt x 281.05pt>
 File: images/fs.png Graphic file (type png)
 <use images/fs.png>
-Package pdftex.def Info: images/fs.png  used on input line 59.
+Package pdftex.def Info: images/fs.png  used on input line 77.
 (pdftex.def)             Requested size: 234.00238pt x 163.39078pt.
-<images/fa.png, id=22, 626.34pt x 577.15625pt>
+<images/fa.png, id=25, 626.34pt x 577.15625pt>
 File: images/fa.png Graphic file (type png)
 <use images/fa.png>
-Package pdftex.def Info: images/fa.png  used on input line 66.
+Package pdftex.def Info: images/fa.png  used on input line 84.
 (pdftex.def)             Requested size: 234.00238pt x 215.62283pt.
- [5 <./images/fs.png>] [6 <./images/fa.png>]
-<images/point source map.png, id=31, 626.34pt x 577.15625pt>
+ [6 <./images/fs.png>] [7 <./images/fa.png>]
+<images/point source map.png, id=35, 626.34pt x 577.15625pt>
 File: images/point source map.png Graphic file (type png)
 <use images/point source map.png>
-Package pdftex.def Info: images/point source map.png  used on input line 81.
+Package pdftex.def Info: images/point source map.png  used on input line 99.
 (pdftex.def)             Requested size: 117.00119pt x 107.81142pt.
-<images/SZ map.png, id=32, 626.34pt x 577.15625pt>
+<images/SZ map.png, id=36, 626.34pt x 577.15625pt>
 File: images/SZ map.png Graphic file (type png)
 <use images/SZ map.png>
-Package pdftex.def Info: images/SZ map.png  used on input line 88.
+Package pdftex.def Info: images/SZ map.png  used on input line 106.
 (pdftex.def)             Requested size: 117.00119pt x 107.81142pt.
-<images/Instrument noise.png, id=33, 626.34pt x 577.15625pt>
+<images/Instrument noise.png, id=37, 626.34pt x 577.15625pt>
 File: images/Instrument noise.png Graphic file (type png)
 <use images/Instrument noise.png>
-Package pdftex.def Info: images/Instrument noise.png  used on input line 95.
+Package pdftex.def Info: images/Instrument noise.png  used on input line 113.
 (pdftex.def)             Requested size: 117.00119pt x 107.81142pt.
-<images/complete simulated CMB Map.png, id=34, 626.34pt x 577.15625pt>
+<images/complete simulated CMB Map.png, id=38, 626.34pt x 577.15625pt>
 File: images/complete simulated CMB Map.png Graphic file (type png)
 <use images/complete simulated CMB Map.png>
-Package pdftex.def Info: images/complete simulated CMB Map.png  used on input line 105.
+Package pdftex.def Info: images/complete simulated CMB Map.png  used on input line 123.
 (pdftex.def)             Requested size: 390.0pt x 359.38315pt.
- [7 <./images/point source map.png> <./images/SZ map.png> <./images/Instrument noise.png>] [8 <./images/complete simulated CMB Map.png>]
-<images/cosine.png, id=48, 626.34pt x 578.16pt>
+ [8 <./images/point source map.png> <./images/SZ map.png> <./images/Instrument noise.png>] [9 <./images/complete simulated CMB Map.png>]
+<images/cosine.png, id=51, 626.34pt x 578.16pt>
 File: images/cosine.png Graphic file (type png)
 <use images/cosine.png>
-Package pdftex.def Info: images/cosine.png  used on input line 114.
+Package pdftex.def Info: images/cosine.png  used on input line 132.
 (pdftex.def)             Requested size: 234.00238pt x 215.99783pt.
-<images/sine.png, id=49, 626.34pt x 578.16pt>
+<images/sine.png, id=52, 626.34pt x 578.16pt>
 File: images/sine.png Graphic file (type png)
 <use images/sine.png>
-Package pdftex.def Info: images/sine.png  used on input line 125.
+Package pdftex.def Info: images/sine.png  used on input line 143.
 (pdftex.def)             Requested size: 191.10214pt x 176.40471pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 126.
-<images/sine squared.png, id=50, 626.34pt x 578.16pt>
+(Font)              <10.95> on input line 144.
+<images/sine squared.png, id=53, 626.34pt x 578.16pt>
 File: images/sine squared.png Graphic file (type png)
 <use images/sine squared.png>
-Package pdftex.def Info: images/sine squared.png  used on input line 132.
+Package pdftex.def Info: images/sine squared.png  used on input line 150.
 (pdftex.def)             Requested size: 191.10214pt x 176.40471pt.
- [9 <./images/cosine.png>]
-<images/Naive Power Spectrum.png, id=55, 395.4775pt x 281.05pt>
+ [10 <./images/cosine.png>]
+<images/Naive Power Spectrum.png, id=58, 395.4775pt x 281.05pt>
 File: images/Naive Power Spectrum.png Graphic file (type png)
 <use images/Naive Power Spectrum.png>
-Package pdftex.def Info: images/Naive Power Spectrum.png  used on input line 144.
+Package pdftex.def Info: images/Naive Power Spectrum.png  used on input line 162.
 (pdftex.def)             Requested size: 234.00238pt x 166.29836pt.
- [10 <./images/sine.png> <./images/sine squared.png>] [11 <./images/Naive Power Spectrum.png>]
-<images/naive spectrums.png, id=69, 401.5pt x 281.05pt>
+ [11 <./images/sine.png> <./images/sine squared.png>] [12 <./images/Naive Power Spectrum.png>]
+<images/naive spectrums.png, id=72, 401.5pt x 281.05pt>
 File: images/naive spectrums.png Graphic file (type png)
 <use images/naive spectrums.png>
-Package pdftex.def Info: images/naive spectrums.png  used on input line 159.
+Package pdftex.def Info: images/naive spectrums.png  used on input line 177.
 (pdftex.def)             Requested size: 234.00238pt x 163.80676pt.
 
-Overfull \hbox (3.3598pt too wide) in paragraph at lines 164--165
+Overfull \hbox (3.3598pt too wide) in paragraph at lines 182--183
 []\OT1/cmr/m/n/12 The noise bias is then cal-i-brated by run-ning noise-only sim-u-la-tions through
  []
 
-<images/cmb error bars.png, id=70, 464.4853pt x 455.45157pt>
+<images/cmb error bars.png, id=73, 464.4853pt x 455.45157pt>
 File: images/cmb error bars.png Graphic file (type png)
 <use images/cmb error bars.png>
-Package pdftex.def Info: images/cmb error bars.png  used on input line 168.
+Package pdftex.def Info: images/cmb error bars.png  used on input line 186.
 (pdftex.def)             Requested size: 312.00119pt x 305.94322pt.
-[12 <./images/naive spectrums.png>]
-<images/ACT Map.png, id=75, 638.385pt x 100.375pt>
+[13 <./images/naive spectrums.png>]
+<images/ACT Map.png, id=79, 638.385pt x 100.375pt>
 File: images/ACT Map.png Graphic file (type png)
 <use images/ACT Map.png>
-Package pdftex.def Info: images/ACT Map.png  used on input line 180.
+Package pdftex.def Info: images/ACT Map.png  used on input line 198.
 (pdftex.def)             Requested size: 312.00119pt x 49.05704pt.
- [13 <./images/cmb error bars.png> <./images/ACT Map.png>]
-<images/ACT Map Patch.png, id=82, 638.385pt x 577.15625pt>
+ [14 <./images/cmb error bars.png> <./images/ACT Map.png>]
+<images/ACT Map Patch.png, id=85, 638.385pt x 577.15625pt>
 File: images/ACT Map Patch.png Graphic file (type png)
 <use images/ACT Map Patch.png>
-Package pdftex.def Info: images/ACT Map Patch.png  used on input line 191.
+Package pdftex.def Info: images/ACT Map Patch.png  used on input line 209.
 (pdftex.def)             Requested size: 133.7709pt x 120.94218pt.
-<images/Filtered ACT Map.png, id=83, 638.385pt x 577.15625pt>
+<images/Filtered ACT Map.png, id=86, 638.385pt x 577.15625pt>
 File: images/Filtered ACT Map.png Graphic file (type png)
 <use images/Filtered ACT Map.png>
-Package pdftex.def Info: images/Filtered ACT Map.png  used on input line 198.
+Package pdftex.def Info: images/Filtered ACT Map.png  used on input line 216.
 (pdftex.def)             Requested size: 133.7709pt x 120.94218pt.
-<images/ACT PS.png, id=84, 401.5pt x 269.005pt>
+<images/ACT PS.png, id=87, 401.5pt x 269.005pt>
 File: images/ACT PS.png Graphic file (type png)
 <use images/ACT PS.png>
-Package pdftex.def Info: images/ACT PS.png  used on input line 208.
+Package pdftex.def Info: images/ACT PS.png  used on input line 226.
 (pdftex.def)             Requested size: 312.00119pt x 209.05547pt.
- [14 <./images/ACT Map Patch.png> <./images/Filtered ACT Map.png>]
-<images/diff fb act.png, id=90, 638.385pt x 101.37875pt>
+ [15 <./images/ACT Map Patch.png> <./images/Filtered ACT Map.png>]
+<images/diff fb act.png, id=93, 638.385pt x 101.37875pt>
 File: images/diff fb act.png Graphic file (type png)
 <use images/diff fb act.png>
-Package pdftex.def Info: images/diff fb act.png  used on input line 217.
+Package pdftex.def Info: images/diff fb act.png  used on input line 235.
 (pdftex.def)             Requested size: 312.00119pt x 49.54762pt.
-<images/PS 220.png, id=91, 401.5pt x 269.005pt>
+<images/PS 220.png, id=94, 401.5pt x 269.005pt>
 File: images/PS 220.png Graphic file (type png)
 <use images/PS 220.png>
-Package pdftex.def Info: images/PS 220.png  used on input line 224.
+Package pdftex.def Info: images/PS 220.png  used on input line 242.
 (pdftex.def)             Requested size: 312.00119pt x 209.05547pt.
- [15 <./images/ACT PS.png> <./images/diff fb act.png>]
-<images/power spectrum.png, id=97, 402.50375pt x 281.05pt>
+ [16 <./images/ACT PS.png> <./images/diff fb act.png>]
+<images/power spectrum.png, id=100, 402.50375pt x 281.05pt>
 File: images/power spectrum.png Graphic file (type png)
 <use images/power spectrum.png>
-Package pdftex.def Info: images/power spectrum.png  used on input line 238.
+Package pdftex.def Info: images/power spectrum.png  used on input line 256.
 (pdftex.def)             Requested size: 312.00119pt x 217.85437pt.
- [16 <./images/PS 220.png>]
-<images/flat temperature anisotropy map.png, id=102, 626.34pt x 577.15625pt>
+ [17 <./images/PS 220.png>]
+<images/flat temperature anisotropy map.png, id=105, 626.34pt x 577.15625pt>
 File: images/flat temperature anisotropy map.png Graphic file (type png)
 <use images/flat temperature anisotropy map.png>
-Package pdftex.def Info: images/flat temperature anisotropy map.png  used on input line 249.
+Package pdftex.def Info: images/flat temperature anisotropy map.png  used on input line 267.
 (pdftex.def)             Requested size: 191.10214pt x 176.09843pt.
-<images/curved temperature anisotropy map.png, id=103, 626.34pt x 577.15625pt>
+<images/curved temperature anisotropy map.png, id=106, 626.34pt x 577.15625pt>
 File: images/curved temperature anisotropy map.png Graphic file (type png)
 <use images/curved temperature anisotropy map.png>
-Package pdftex.def Info: images/curved temperature anisotropy map.png  used on input line 256.
+Package pdftex.def Info: images/curved temperature anisotropy map.png  used on input line 274.
 (pdftex.def)             Requested size: 191.10214pt x 176.09843pt.
- [17 <./images/power spectrum.png> <./images/flat temperature anisotropy map.png> <./images/curved temperature anisotropy map.png>] (./main.aux)
+ [18 <./images/power spectrum.png> <./images/flat temperature anisotropy map.png> <./images/curved temperature anisotropy map.png>] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3052 strings out of 476038
- 56807 string characters out of 5794173
- 1859779 words of memory out of 5000000
- 23494 multiletter control sequences out of 15000+600000
- 518064 words of font info for 51 fonts, out of 8000000 for 9000
+ 3053 strings out of 476038
+ 56822 string characters out of 5794173
+ 1858779 words of memory out of 5000000
+ 23495 multiletter control sequences out of 15000+600000
+ 518371 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,63p,1474b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (17 pages, 2853330 bytes).
+Output written on main.pdf (18 pages, 2856603 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 160 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

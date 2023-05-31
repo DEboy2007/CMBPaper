@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1685505431 "c:/Users/dhanu/Desktop/My Stuff/Coding/PROJECTS/CMBPaper/Paper/main.tex" "main.pdf" "main" 1685505433 0
-  "c:/Users/dhanu/Desktop/My Stuff/Coding/PROJECTS/CMBPaper/Paper/main.tex" 1685505427 24891 8ee7e07db2eb76d76dcf4914f4bd2c37 ""
+["pdflatex"] 1685507483 "c:/Users/dhanu/Desktop/My Stuff/Coding/PROJECTS/CMBPaper/Paper/main.tex" "main.pdf" "main" 1685507485 0
+  "c:/Users/dhanu/Desktop/My Stuff/Coding/PROJECTS/CMBPaper/Paper/main.tex" 1685507480 25680 3f48d2cf33794ab30605cc1a6ee166ee ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1685083942 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1685082736 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1685082736 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -67,8 +67,8 @@
   "images/power spectrum.png" 1685080766 20100 969a04deba7fcd21da345540f6bcabb7 ""
   "images/sine squared.png" 1685080766 313129 61318fc1963fbd4952ac8c7efa401242 ""
   "images/sine.png" 1685080766 277682 9de99e235df23a5ed31f435e6fe7569d ""
-  "main.aux" 1685505433 5582 d82db2b1cc2e9594ecd9982c8e120a32 "pdflatex"
-  "main.tex" 1685505427 24891 8ee7e07db2eb76d76dcf4914f4bd2c37 ""
+  "main.aux" 1685507485 6867 23150bfbff4ab8b2ab4c6bbfc81df6b9 "pdflatex"
+  "main.tex" 1685507480 25680 3f48d2cf33794ab30605cc1a6ee166ee ""
   (generated)
   "main.aux"
   "main.log"
