@@ -85,7 +85,7 @@ def Plot_CMB_Map(Map_to_Plot, c_min, c_max, X_width, Y_width, title):
     im.set_extent([0, X_width, 0, Y_width])
     plt.ylabel('angle $[^\circ]$')
     plt.xlabel('angle $[^\circ]$')
-    cbar.set_label('tempearture [uK]', rotation=270)
+    cbar.set_label('temperature [uK]', rotation=270)
 
     plt.show()
     return (0)
